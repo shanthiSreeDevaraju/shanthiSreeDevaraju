@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shanthiSreeDevaraju
 - 👀 I’m interested in Software Engineering and Distributed Computing.
 - 🌱 I’m currently a graduate student at New York University studying Computer Science. 
-- 💞️ I’m actively looking for summer internships 2022.
+- 💞️ I’m actively looking for full time roles starting May 2023.
 - 📫 Please reach out to me at sd4601@nyu.edu
 
 <!---
